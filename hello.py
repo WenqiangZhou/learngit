@@ -1,1 +1,2 @@
-fix a bug.
+#!/usr/bin/env php
+echo "hello,world.";
