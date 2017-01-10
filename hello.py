@@ -1,2 +1,2 @@
-#!/usr/bin/env php
-echo "hello,world.";
+#!/usr/bin/env python
+print('hello, world.')
