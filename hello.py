@@ -1,1 +1,2 @@
-fix a bug.
+#!/usr/bin/env python
+print('hello, world.')
